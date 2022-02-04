@@ -471,6 +471,15 @@ li {
   width: 100%;
 }
 
+.close {
+  position: absolute;
+  right: 2rem;
+  top: 1rem;
+  border: none;
+  background-color: transparent;
+  color: #6f6c6b;
+  cursor: pointer;
+  font-size: 1.5rem;
 
 @media all and (min-width: 720px) {
   .top-social {
