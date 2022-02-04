@@ -27,7 +27,7 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+.desktop-nav, .desktop-nav ul {
   display: none;
 }
 
@@ -444,11 +444,11 @@ textarea {
     display: none;
   }
 
-  #desktop-nav {
+  .desktop-nav {
     display: block;
   }
 
-  #desktop-nav ul {
+  .desktop-nav ul {
     display: flex;
     margin-right: 10vw;
   }
